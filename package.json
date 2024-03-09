@@ -1,0 +1,30 @@
+{
+  "name": "airdrop-tea-program",
+  "version": "1.0.0",
+  "description": "Airdrop Tea diperuntukan untuk User Tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "airdrop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brrrskuy77/airdrop-tea-program.git"
+  },
+  "keywords": [
+    "Airdrop",
+    "Tea"
+  ],
+  "author": "Akbar Asif Subagiyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brrrskuy77/airdrop-tea-program/issues"
+  },
+  "homepage": "https://github.com/Brrrskuy77/airdrop-tea-program#readme",
+  "dependencies": {
+    "@types/node": "^20.11.25",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.35"
+  }
+}
